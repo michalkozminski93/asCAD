@@ -4,3 +4,7 @@ Supported CAD drawing format is dxf file (Drawing Interchange Format - developed
 Possible use cases: welding, gripping or laser cutting using Kawasaki industrial robot.
 GUI created in wxPython, the cross-platform GUI toolkit for the Python language.
 Application (executable) available within archieve asCAD app.rar
+
+Possible improvements:
+- supporting 3D trajectories
+- direct communication with Kawasaki controller (currently the AS code is generated within application and can be saved to a file which needs to be copied to a controller)
