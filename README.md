@@ -8,3 +8,6 @@ Application (executable) available within archieve asCAD app.rar
 Possible improvements:
 - supporting 3D trajectories
 - direct communication with Kawasaki controller (currently the AS code is generated within application and can be saved to a file which needs to be copied to a controller)
+
+![image](https://user-images.githubusercontent.com/36520228/201860348-fa47011f-f9da-43ab-bd65-597b128cc66b.png)
+
